@@ -1,0 +1,21 @@
+{
+  "name": "PAGADIAN UTANG SYSTEM PRO MAX",
+  "short_name": "UTANG PRO",
+  "description": "Tindahan Utang System with GCash - Para sa Pagadian Stores",
+  "start_url": "/mohammadsalip8-cloud-utang-system/",
+  "display": "standalone",
+  "background_color": "#0F4C75",
+  "theme_color": "#0F4C75",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
